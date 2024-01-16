@@ -1,11 +1,7 @@
-/* Este é um programa que calcula a média de um aluno e classifica-o entre;
- abaixo da Média, na Média e acima da Média.
-*/
-
-const nota1 = 7;
-const nota2 = 7;
-const nota3 = 7;
-const nota4 = 7;
+const nota1 = Primeira Nota;
+const nota2 = Segunda Nota;
+const nota3 = Terceira Nota;
+const nota4 = Quarta Nota;
 
 const media = (nota1 + nota2 + nota3 + nota4) / 4;
 console.log(media)
